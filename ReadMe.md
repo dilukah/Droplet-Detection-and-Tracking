@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This project is designed to address several key challenges in liquid detection and tracking. By leveraging classical machine vision algorithms and AI algorithms. It aims to provide solutions that improve detection and tracking accuracy, processing speed. Specifically, this project tackles the following problems:
+This project is designed to address several key challenges in liquid detection and tracking. By leveraging classical machine vision algorithms and AI algorithms, it aims to provide solutions that improve detection and tracking accuracy, processing speed. Specifically, this project tackles the following problems:
 
 1. **Detection and Tracking Accuracy of Droplets:** Reliable detection of objects or features within the video is crucial for accurate analysis. This project includes robust algorithms and methodologies to improve detection accuracy, ensuring precise identification of the droplet. This project implements advanced tracking techniques to maintain high accuracy.
 2. **Slow Processing Times:** Traditional data processing methods can be slow and inefficient. By implementing algorithms in C++, we significantly reduce processing times without compromising accuracy.
