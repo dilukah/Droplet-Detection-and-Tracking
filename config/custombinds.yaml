@@ -1,0 +1,9 @@
+# Check "https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes" for virtual key codes for unusual keys (VK_SPACE, VK_ESCAPE,...)
+# Input the keybinds as characters or as hex numbers for unusual keys.
+
+start: s		# default S
+pause: 0x20 		# default 0x20 (VK_SPACE)
+screen_shot: e		# default E
+termination: 0x1B 	# default 0x1B (VK_ESCAPE)
+
+

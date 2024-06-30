@@ -1,0 +1,48 @@
+
+EdgeDetection:
+
+   filepath:      "C:\\visp-ws\\videos"
+
+   GaussianSigmaX:	0.5
+   GaussianSigmaY: 	0.5
+   CannyThreshold1:	70
+   CannyThreshold2:	30
+
+   roiTop: 280
+   roiLeft: 260
+   roiHeight: 370
+   roiWidth: 370
+   
+
+#---------------------------------------------------------------------------------------
+
+MultiDropletTracking:
+
+   filepath:		"C:\\visp-ws\\videos"
+
+   minThreshold:	10
+   maxThreshold:	200
+   minArea:		25
+   minCircularity:	0.1 # 0.785 for a square
+   minConvexity:	0.87
+   minInertiaRatio:	0.01
+   
+   selectroi:		0
+   treshold:		0
+   YOLOinit:            1
+   YOLOdetect:          1
+
+   roiTop: 405	
+   roiLeft: 280 	
+   roiHeight: 255
+   roiWidth: 310	
+
+#---------------------------------------------------------------------------------------
+
+YoloDetection:
+
+   filepath:		"C:\\visp-ws\\videos"
+
+   yoloConfigPath:		"..\\..\\YoloFiles\\yolo-obj.cfg"
+   modelParametersPath:		"..\\..\\YoloFiles\\yolo-obj_final.weights"
+
