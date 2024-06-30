@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Introduction]
-- [Features]
-- [Installation]
-- [Authors]
+- Introduction
+- Features
+- Installation
+- Authors
 
 ## Introduction
 
@@ -54,7 +54,7 @@ Instructions to execute the liquid tracking project.
 
 ## Authors
  
-Diluka Harischandra (Instructor, Initial work)
-Esa Paavilainen (Additional features)
-Yuhang Yang (Additional features)
-Yinda Xu (Additional features)
+- Diluka Harischandra (Instructor, Initial work)
+- Esa Paavilainen (Additional features)
+- Yuhang Yang (Additional features)
+- Yinda Xu (Additional features)
